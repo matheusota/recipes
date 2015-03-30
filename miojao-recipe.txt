@@ -1,0 +1,8 @@
+Ingredients:
+ - miojo
+ - water
+
+Directions:
+  1. Heat the water.
+  2. Put the miojo.
+  3. Eat.
